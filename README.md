@@ -42,7 +42,7 @@ pip install scotch-sc
 
   
 
-We have applied spatrio on different tissues of multiple species, here we give step-by-step tutorials for all application scenarios. And preprocessed datasets used can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1fl8gXSBuV1yTH_ZpzH6TjfGgZcrFsrmX?usp=sharing).
+We have applied spatrio on different tissues of multiple species, here we give step-by-step tutorials for all application scenarios. And preprocessed datasets used can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1_LIBzeq-C028RC802ZwyfcqxjobEHTm1?usp=drive_link).
 
   
   
