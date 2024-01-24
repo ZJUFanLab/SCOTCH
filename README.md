@@ -6,7 +6,7 @@
   
 
 
-# Cross-modal matching and integration of single-cell multi-omics data with SCOTCH
+## Cross-modal matching and integration of single-cell multi-omics data
 
   
 
