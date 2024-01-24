@@ -43,7 +43,7 @@ pip install scotch-sc
 
   
 
-We have applied SCOTCH on different tissues of multiple species, here we give step-by-step tutorials for application scenarios. And datasets in `.h5ad` fomat used can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1_LIBzeq-C028RC802ZwyfcqxjobEHTm1?usp=sharing).
+We have applied SCOTCH on different tissues of multiple species, here we give step-by-step tutorials for application scenarios. And datasets in `.h5ad` fomat can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1_LIBzeq-C028RC802ZwyfcqxjobEHTm1?usp=sharing).
 
   
   
