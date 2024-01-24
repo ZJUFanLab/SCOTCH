@@ -1,7 +1,8 @@
+
   
   
 
-#  SCOTCH v1.0.0 <img  src='images/icon.tif'  align="right"  height="200" /></a>
+#  SCOTCH v1.0.0 <img  src='images/icon.png'  align="right"  height="200" /></a>
 
   
 
@@ -19,7 +20,7 @@ SCOTCH is a computational method that leverages the optimal transport algorithm 
 
   
 
-![Image text](images/overview.tif)
+![Image text](images/overview.png)
 
   
 
