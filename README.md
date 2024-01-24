@@ -1,7 +1,7 @@
   
   
 
-#  SCOTCH v1.0.0 <img  src='images/icon.png'  align="right"  height="200" /></a>
+#  SCOTCH v1.0.0 <img  src='images/icon.tif'  align="right"  height="200" /></a>
 
   
 
